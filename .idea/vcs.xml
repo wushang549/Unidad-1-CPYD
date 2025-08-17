@@ -2,6 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/service/image/cpp_development_container" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Unidad-1-CPYD" vcs="Git" />
   </component>
 </project>
